@@ -32,8 +32,8 @@ __The UniBorg should work by setting only these variables__
 from sample_config import Config
 
 class Development(Config):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  APP_ID = 267796
+  API_HASH = 3ef460a27a3b9e1abb0ce1dca887e9b1
   TG_BOT_TOKEN_BF_HER = ""
   TG_BOT_USER_NAME_BF_HER = ""
   UB_BLACK_LIST_CHAT = [
